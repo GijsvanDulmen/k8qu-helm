@@ -3,12 +3,12 @@ entries:
   k8qu:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-14T20:57:59.603542+01:00"
+    created: "2024-02-15T16:07:13.357005+01:00"
     description: k8qu controller
-    digest: 1e2d1b38d0f55d5e7efff40a50ad0b15f6a8eafea904a6224f340763dbc36843
+    digest: 2fd1464cef8761abed9657d278248bc11e176358bcb7284cfca29e0f1be2f3ed
     name: k8qu
     type: application
     urls:
     - k8qu-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-14T20:57:59.603174+01:00"
+generated: "2024-02-15T16:07:13.356587+01:00"
