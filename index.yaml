@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   k8qu:
   - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2024-04-24T09:16:59.87395+02:00"
+    description: k8qu controller
+    digest: 0eb5ff22c9eee9afc6d70ee4f3cb1c74bb376368082b6bd93e934d1c1cf57b6c
+    name: k8qu
+    type: application
+    urls:
+    - k8qu-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-02-16T09:15:22.413346+01:00"
+    created: "2024-04-24T09:16:59.873807+02:00"
     description: k8qu controller
     digest: b22a5f5a969714c75e5faf8355dae7dc7962136ae837d73b24defb0c7d105b49
     name: k8qu
@@ -13,7 +23,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-16T09:15:22.413031+01:00"
+    created: "2024-04-24T09:16:59.87348+02:00"
     description: k8qu controller
     digest: 2fd1464cef8761abed9657d278248bc11e176358bcb7284cfca29e0f1be2f3ed
     name: k8qu
@@ -21,4 +31,4 @@ entries:
     urls:
     - k8qu-1.0.0.tgz
     version: 1.0.0
-generated: "2024-02-16T09:15:22.408814+01:00"
+generated: "2024-04-24T09:16:59.872758+02:00"
